@@ -69,3 +69,8 @@
 - Далее жмём кнопку 'Выбрать файл' и загружаем файл в формате CSV с записями о физиологическом состоянии пациентов 
 - Далее нажимаем 'Отправить'
 - Открывается новая страница http://127.0.0.1:8000/process и там передается JSON-файл с id пациента и его диагнозом (0 - вне опасности, 1 - опасность есть)
+
+
+## Примеры 
+<img width="403" height="206" alt="image" src="https://github.com/user-attachments/assets/6944c17e-e241-40ad-a5c8-b460d514d87c" />
+<img width="1301" height="807" alt="image" src="https://github.com/user-attachments/assets/fce9472f-e3d8-4b31-8be4-c7d2857480a8" />
